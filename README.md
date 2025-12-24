@@ -15,7 +15,7 @@ Apoiar decisões estratégicas relacionadas a marketing, estoque e experiência 
 ---
 
 ## Estrutura do Projeto:
-
+```text
 ├── data/
 │   ├── dataset_tratado.csv
 │   └── shopping_behavior_updated.csv
@@ -36,7 +36,7 @@ Apoiar decisões estratégicas relacionadas a marketing, estoque e experiência 
 │   └── 04_analise_comparativa.ipynb
 │
 └── README.md
-
+```
 ---
 
 ## Tecnologias Utilizadas
