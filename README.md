@@ -44,7 +44,7 @@ Apoiar decisões estratégicas relacionadas a marketing, estoque e experiência 
 - Python
 - Pandas – manipulação e agregação de dados
 - Matplotlib – visualização de dados
-- Jupyter Notebook
+- VScode (Jupyter Notebook)
 
 ---
 
